@@ -1,8 +1,8 @@
 {
-  "name": "community-extensions",
+  "name": "mgg-ppb",
   "version": "0.8.0",
-  "repositoryName": "Paperback Community Extensions (0.8)",
-  "description": "Community maintained Paperback extension repository",
+  "repositoryName": "ass",
+  "description": "as",
   "main": "index.js",
   "scripts": {
     "bundle": "npx paperback bundle",
@@ -10,7 +10,7 @@
     "test": "npx paperback test",
     "nodemon": "nodemon"
   },
-  "author": "Netsky",
+  "author": ":3",
   "license": "GPL-3.0-or-later",
   "devDependencies": {
     "@tsconfig/recommended": "^1.0.1",
